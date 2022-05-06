@@ -24,3 +24,4 @@ CREATE TABLE voters (
     email VARCHAR(50) NOT NULL,
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
+
